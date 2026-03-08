@@ -4,7 +4,7 @@
 <img src="./cherry%20flowers.jpg" width="100%" alt="cherry flowers banner"/>
 
 <!-- 🌸 Interactive rotating typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+profile!+🌸;I+love+building+cute+things!+🐣;Studying+hard+with+my+StudyPet!+🐾;Always+coding+with+a+latte+☕;Let's+build+something+adorable!+💕" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+profile%21;I+love+building+cute+things;Studying+hard+with+my+StudyPet;Always+coding+with+a+latte;Lets+build+something+adorable" alt="Typing SVG"/>
 
 <br/>
 
