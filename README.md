@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 🌸 Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=Hi%2C+I'm+zenken24!+🌸&fontSize=60&fontColor=ff69b4&animation=fadeIn&fontAlignY=42&desc=✨+Developer+%7C+Creator+%7C+Pet+Lover+✨&descAlignY=62&descSize=20&descColor=ffb6c1" width="100%"/>
+<!-- 🌸 Banner image -->
+<img src="./cherry%20flowers.jpg" width="100%" alt="cherry flowers banner"/>
 
 <!-- 🌸 Interactive rotating typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+profile!+🌸;I+love+building+cute+things!+🐣;Studying+hard+with+my+StudyPet!+🐾;Always+coding+with+a+latte+☕;Let's+build+something+adorable!+💕" alt="Typing SVG"/>
@@ -26,8 +26,8 @@
 
 <br/>
 
-<!-- 🌸 Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<!-- 🌸 Ribbon divider -->
+<img src="./ribbon.jpg" width="700" alt="ribbon divider"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Hey there! I'm **zenken24** — a developer who loves creating fun, cute, and me
 - 🐣 Passionate about gamification and helping students succeed
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="./ribbon.jpg" width="700" alt="ribbon divider"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@ Hey there! I'm **zenken24** — a developer who loves creating fun, cute, and me
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="./ribbon.jpg" width="700" alt="ribbon divider"/>
 </div>
 
 ---
@@ -103,4 +103,8 @@ Hey there! I'm **zenken24** — a developer who loves creating fun, cute, and me
 
 *Made with 💖 and lots of pink — thanks for visiting!* 🌸
 
+</div>
+
+<div align="center">
+<img src="./cat.gif" width="300" alt="cat"/>
 </div>
