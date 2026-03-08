@@ -8,13 +8,6 @@
 
 <br/>
 
-<!-- 🐱 Cute GIFs row -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" height="180"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" height="180"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180" height="180"/>
-
 <br/><br/>
 
 <!-- 🩷 Pink badges -->
