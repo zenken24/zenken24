@@ -4,7 +4,7 @@
 <img src="./banner.gif" width="100%" alt="cherry flowers banner gif"/>
 <br/><br/>
 <!-- 🌸 Interactive rotating typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+profile%21;I+love+building+things+that+I+need🌸;Lets+do+our+best+everyday💞" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome%20to%20my%20GitHub%20profile%21%3BI%20love%20building%20things%20that%20I%20need%20%F0%9F%8C%B8%3BLets%20do%20our%20best%20everyday%20%F0%9F%92%9E" alt="Typing SVG"/>
 
 <br/>
 
@@ -30,6 +30,7 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 - 📊 Interested in Data Science and Machine Learning  
 - 🚀 Always experimenting with small projects and creative ideas
 
+<br/>
 <div align="center">
 <img src="./ksokd.jpg" width="700" alt="ribbon divider"/>
 </div>
@@ -72,7 +73,7 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-FF1493?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
-
+<br/>
 <div align="center">
 <img src="./tinting.jpg" width="700" alt="ribbon divider"/>
 </div>
@@ -92,6 +93,7 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 | 🐾 **[udita](https://github.com/zenken24/udita)** | Personal project repository. |
 | 🐾 **[Legends Of Aetherfall](https://github.com/zenken24/Legends-of-Aetherfall)** | Legends of Aetherfall project repository. |
 
+<br/>
 <div align="center">
 <img src="./caty9o.jpg" width="700" alt="ribbon divider"/>
 </div>
@@ -107,7 +109,7 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=zenken24&background=fff0f5&ring=E96BA8&fire=FF9BC7&currStreakLabel=E96BA8&sideLabels=C67AA3&currStreakNum=FF8AB8&sideNums=E96BA8&dates=E7A6C4&border=F7C9DD" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=zenken24&background=fff0f5&ring=E96BA8&fire=FF9BC7&currStreakLabel=E96BA8&sideLabels=C67AA3&currStreakNum=FF8AB8&sideNums=E96BA8&dates=E7A6C4&border=F7C9DD" width="70%"/>
 </div>
 
 
@@ -127,7 +129,8 @@ This song is currently powering my coding sessions ☕🎶💘
 <!-- Replace YOUR_SPOTIFY_ID with your Spotify user ID -->
 <a href="https://open.spotify.com/track/5rDXfGMWI6S8wkXR0MHsvv?si=9f584460078f4513"><img src="https://i.scdn.co/image/ab67616d0000b273c21555708975ad94b1faf422" width="200" alt="love. by wave to earth cover"/>
 
-<b><font color="#FF69B4" font size = 5>love. - wave to earth</font></b></a>
+<b><font color="#FF69B4" font size = 3>love. - wave to earth</font></b></a>
+
   <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Now%20on%20Spotify-FF8FC4?style=for-the-badge&logo=spotify&logoColor=white" width="250" alt="Play on Spotify"/>
 </a>
 
