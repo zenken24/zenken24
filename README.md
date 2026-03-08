@@ -1,24 +1,13 @@
 <div align="center">
 
 <!-- 🌸 Banner image -->
-<img src="./cherry%20flowers.jpg" width="100%" alt="cherry flowers banner"/>
-
+<img src="./banner.gif" width="100%" alt="cherry flowers banner gif"/>
 <br/><br/>
 <!-- 🌸 Interactive rotating typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+profile%21;I+love+building+cute+things;Studying+hard+with+my+StudyPet;Always+coding+with+a+latte;Lets+build+something+adorable" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+profile%21;I+love+building+things+that+I+need🌸;Lets+do+our+best+everyday💞" alt="Typing SVG"/>
 
 <br/>
 
-<br/><br/>
-
-<!-- 🩷 Pink badges -->
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI%20Apps-FF1493?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Gamification](https://img.shields.io/badge/Gamification-FF69B4?style=for-the-badge&logo=googleplay&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-FFB6C1?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-<br/>
 
 <!-- 🌸 Ribbon divider -->
 <img src="./ribbon.jpg" width="700" alt="ribbon divider"/>
@@ -31,32 +20,62 @@
 
 > *"The secret to getting ahead is getting started."* — Mark Twain 🌷
 
-Hey there! I'm **zenken24** — a developer who loves creating fun, cute, and meaningful projects! 🐾
+Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, and meaningful projects that I might need in everyday lives! I'm very much interested in ML and data science 🐾
 
 - 🔭 Currently building **[StudyPet](https://github.com/zenken24/StudyPet)** — a gamified study companion
-- 🌱 Always learning something new every day
-- 💖 I love Python, CLI apps, and making things adorable
-- 🐣 Passionate about gamification and helping students succeed
+- 🌱 Always learning something new every day 
+- 💖 I love Python and building fun little apps  
+- 🐣 Passionate about gamification and helping students succeed  
+- ⚙️ Curious about DevOps and how systems run smoothly behind the scenes  
+- 📊 Interested in Data Science and Machine Learning  
+- 🚀 Always experimenting with small projects and creative ideas
 
 <div align="center">
-<img src="./ribbon.jpg" width="700" alt="ribbon divider"/>
+<img src="./ksokd.jpg" width="700" alt="ribbon divider"/>
 </div>
 
 ---
 
-## 🛠️ Tech I Love
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFB6C1?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-FF1493?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-FFB6C1?style=flat-square&logo=markdown&logoColor=white)
+### Web
 
-</div>
+![HTML](https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFB6C1?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![CLI Apps](https://img.shields.io/badge/CLI%20Apps-FF1493?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-FFB6C1?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-FF69B4?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-FFB6C1?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Learning / Exploring
+
+![Docker](https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-FF1493?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
+
+<div align="center">
+<img src="./tinting.jpg" width="700" alt="ribbon divider"/>
+</div>
 
 ## 🌸 My Projects
 
@@ -65,7 +84,17 @@ Hey there! I'm **zenken24** — a developer who loves creating fun, cute, and me
 | 💖 Project | 🐾 Description |
 |:---:|:---|
 | 🐾 **[StudyPet](https://github.com/zenken24/StudyPet)** | A gamified CLI study companion with a virtual pet! |
+| 🐾 **[Improved-Cafeteria-System](https://github.com/zenken24/Improved-Cafeteria-System)** | Improved cafeteria management system project. |
+| 🐾 **[Project-Aqua-Recruitment](https://github.com/zenken24/Project-Aqua-Recruitment)** | Recruitment-focused project repository. |
+| 🐾 **[cbs-neotalk-2026](https://github.com/zenken24/cbs-neotalk-2026)** | CBS NeoTalk 2026 project repository. |
+| 🐾 **[Student-Management-System](https://github.com/zenken24/Student-Management-System-)** | Student management system project. |
+| 🐾 **[anika](https://github.com/zenken24/happi-bday-anika)** | Birthday-themed project for Anika. |
+| 🐾 **[udita](https://github.com/zenken24/udita)** | Personal project repository. |
+| 🐾 **[Legends Of Aetherfall](https://github.com/zenken24/Legends-of-Aetherfall)** | Legends of Aetherfall project repository. |
 
+<div align="center">
+<img src="./caty9o.jpg" width="700" alt="ribbon divider"/>
+</div>
 </div>
 
 ---
@@ -73,32 +102,47 @@ Hey there! I'm **zenken24** — a developer who loves creating fun, cute, and me
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zenken24&show_icons=true&theme=radical&bg_color=fff0f5&title_color=FF69B4&icon_color=FF1493&text_color=c94b8e&border_color=FFB6C1" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenken24&background=fff0f5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=c94b8e&currStreakNum=FF1493&sideNums=FF69B4&dates=FFB6C1&border=FFB6C1" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenken24&layout=compact&bg_color=fff0f5&title_color=FF69B4&text_color=c94b8e&border_color=FFB6C1" width="40%"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenken24&show_icons=true&bg_color=fff0f5&title_color=E96BA8&icon_color=FF9BC7&text_color=C67AA3&border_color=F7C9DD" width="55%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zenken24&layout=compact&bg_color=fff0f5&title_color=E96BA8&text_color=C67AA3&border_color=F7C9DD" width="40%"/>
 </div>
 
 <div align="center">
-<img src="./ribbon.jpg" width="700" alt="ribbon divider"/>
+<img src="https://streak-stats.demolab.com?user=zenken24&background=fff0f5&ring=E96BA8&fire=FF9BC7&currStreakLabel=E96BA8&sideLabels=C67AA3&currStreakNum=FF8AB8&sideNums=E96BA8&dates=E7A6C4&border=F7C9DD" width="100%"/>
 </div>
+
+
 
 ---
 
-<div align="center">
+
 
 <!-- 🌸 Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=ff69b4" width="100%"/>
 
-*Made with 💖 and lots of pink — thanks for visiting!* 🌸
+## 🎧 Coding Vibes
 
+This song is currently powering my coding sessions ☕🎶💘
+<br/>
+<br/>
+<div align="center">
+<!-- Replace YOUR_SPOTIFY_ID with your Spotify user ID -->
+<a href="https://open.spotify.com/track/5rDXfGMWI6S8wkXR0MHsvv?si=9f584460078f4513"><img src="https://i.scdn.co/image/ab67616d0000b273c21555708975ad94b1faf422" width="200" alt="love. by wave to earth cover"/>
+
+<b><font color="#FF69B4" font size = 5>love. - wave to earth</font></b></a>
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Now%20on%20Spotify-FF8FC4?style=for-the-badge&logo=spotify&logoColor=white" width="250" alt="Play on Spotify"/>
+</a>
+
+<br/>
+
+</div>
+
+
+
+<div align="center">
+<img src="./catto1.gif" alt="cat"/>
 </div>
 
 <div align="center">
-<img src="./cat.gif" width="300" alt="cat"/>
-</div>
+
+
+
+*Made with 💖 and lots of pink — thanks for visiting!* 🌸
