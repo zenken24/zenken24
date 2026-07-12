@@ -86,6 +86,7 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 |:---:|:---|
 | 🐾 **[StudyPet](https://github.com/zenken24/StudyPet)** | A gamified CLI study companion with a virtual pet! |
 | 🐾 **[Foodie-Food-Delivery-App](https://github.com/zenken24/Foodie-Food-Delivery-App)** | Food delivery app |
+| 🐾 **[Meowstudy](https://github.com/zenken24/meow-study)** | A cozy study corner for just you! |
 | 🐾 **[Improved-Cafeteria-System](https://github.com/zenken24/Improved-Cafeteria-System)** | Improved cafeteria management system project. |
 | 🐾 **[Project-Aqua-Recruitment](https://github.com/zenken24/Project-Aqua-Recruitment)** | Recruitment-focused project repository. |
 | 🐾 **[cbs-neotalk-2026](https://github.com/zenken24/cbs-neotalk-2026)** | CBS NeoTalk 2026 project repository. |
