@@ -22,7 +22,7 @@
 
 Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, and meaningful projects that I might need in everyday lives! I'm very much interested in ML and data science 🐾
 
-- 🔭 Currently building **[StudyPet](https://github.com/zenken24/StudyPet)** — a gamified study companion
+- 🔭 Currently building something new! A supaaaa bigggg projectt >~<
 - 🌱 Always learning something new every day 
 - 💖 I love Python and building fun little apps  
 - 🐣 Passionate about gamification and helping students succeed  
