@@ -84,7 +84,10 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 
 | 💖 Project | 🐾 Description |
 |:---:|:---|
+| 🐾 **[Wanderville](https://github.com/zenken24/wanderville)** | A Godot campus life and farming game: grow crops, build and furnish a home, catch fish, run a shop, choose a companion and spend time with friends.|
+| 🐾 **[a2z](https://github.com/zenken24/a2z)** | A scanlator-based manga management system which is database heavy |
 | 🐾 **[StudyPet](https://github.com/zenken24/StudyPet)** | A gamified CLI study companion with a virtual pet! |
+| 🐾 **[MetroRail Simulation](https://github.com/zenken24/MetroRailSimulationDLD)** | MetroRail simulation project in Proteus |
 | 🐾 **[Foodie-Food-Delivery-App](https://github.com/zenken24/Foodie-Food-Delivery-App)** | Food delivery app |
 | 🐾 **[Meowstudy](https://github.com/zenken24/meow-study)** | A cozy study corner for just you! |
 | 🐾 **[Improved-Cafeteria-System](https://github.com/zenken24/Improved-Cafeteria-System)** | Improved cafeteria management system project. |
@@ -92,7 +95,7 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 | 🐾 **[cbs-neotalk-2026](https://github.com/zenken24/cbs-neotalk-2026)** | CBS NeoTalk 2026 project repository. |
 | 🐾 **[Student-Management-System](https://github.com/zenken24/Student-Management-System-)** | Student management system project. |
 | 🐾 **[anika](https://github.com/zenken24/happi-bday-anika)** | Birthday-themed project for Anika. |
-| 🐾 **[udita](https://github.com/zenken24/udita)** | Personal project repository. |
+| 🐾 **[udita](https://github.com/zenken24/udita)** | Personal project. |
 | 🐾 **[Legends Of Aetherfall](https://github.com/zenken24/Legends-of-Aetherfall)** | Legends of Aetherfall project repository. |
 
 <br/>
@@ -104,11 +107,6 @@ Hiiiiiiiii! I'm **Zen!** — a software developer who loves creating fun, cute, 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenken24&show_icons=true&bg_color=fff0f5&title_color=E96BA8&icon_color=FF9BC7&text_color=C67AA3&border_color=F7C9DD" width="55%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zenken24&layout=compact&bg_color=fff0f5&title_color=E96BA8&text_color=C67AA3&border_color=F7C9DD" width="40%"/>
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=zenken24&background=fff0f5&ring=E96BA8&fire=FF9BC7&currStreakLabel=E96BA8&sideLabels=C67AA3&currStreakNum=FF8AB8&sideNums=E96BA8&dates=E7A6C4&border=F7C9DD" width="70%"/>
